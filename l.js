@@ -8,5 +8,11 @@ function l() {
     magik.shakti(there);
     magik.shakti(there);
     magik.shakti(there);  
-
+    magik.shakti(there);
+    magik.shakti(there);
+    magik.shakti(there);
+    magik.shakti(there);
+    magik.shakti(there);
+    magik.shakti(there);
+    
 }
